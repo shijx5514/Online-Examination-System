@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E://Online Examination System/Online Examination System.iml" filepath="E://Online Examination System/Online Examination System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examition-system.iml" filepath="$PROJECT_DIR$/examition-system.iml" />
     </modules>
   </component>
 </project>
